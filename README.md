@@ -7,7 +7,7 @@
 - Blog: [https://miaotony.xyz](https://miaotony.xyz/?from=GitHub)  
 - [Email subscription](https://mailchi.mp/64a836ae8ba4/miaotony)  
 - [Blog RSS](https://miaotony.xyz/atom.xml)  
-- Telegram Channel: [@MiaoTonyChannel](https://t.me/MiaoTonyChannel)  
+- Telegram: [@meow233](https://t.me/meow233)  
 - Email: `bWlhb3RvbnlAb3V0bG9vay5jb20=`  
 
 ✨ **Longing for your little STAR~** ✨
