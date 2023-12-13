@@ -4,7 +4,7 @@
 
 ### **Where to find me**
 
-- Blog: [https://miaotony.xyz](https://miaotony.xyz/?from=GitHub)  
+- Blog: [https://miaotony.xyz](https://miaotony.xyz/?utm_source=GitHub)  
 - [Email subscription](https://mailchi.mp/64a836ae8ba4/miaotony)  
 - [Blog RSS](https://miaotony.xyz/atom.xml)  
 - Telegram: [@meow233](https://t.me/meow233)  
